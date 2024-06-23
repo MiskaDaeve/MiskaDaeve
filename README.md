@@ -1,16 +1,22 @@
 ## Hi there 👋
+I am MiskaDaeve,a senior high school student which loves Minecraft.</br>
+I am just a new one about programming :)</br>
+And I am currently working around some reverse work about ysm and Minecraft plugin server softs
 
-<!--
-**MiskaDaeve/MiskaDaeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools I have frequency used
+![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)
+&nbsp;
+![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-white?style=flat-square&logo=IntelliJ+IDEA&color=4abf8a)
+&nbsp;
+![Git](https://img.shields.io/badge/VCS-Git-white?style=flat-square&logo=Git&color=4abf8a)&nbsp;
 
-Here are some ideas to get you started:
+### Programming languages(Including seldom used)
+![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,c,cpp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Services I have used
+![Services](https://skillicons.dev/icons?i=github,gitlab,cloudflare,gradle,maven)
+
+### My status
+<h5>Visitor Count：</h5>
+<img src="https://moe-counter.glitch.me/get/@MiskaDaeve?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
