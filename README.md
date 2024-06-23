@@ -1,7 +1,8 @@
 ## Hi there 👋
-I am MiskaDaeve,a senior high school student which loves Minecraft.</br>
+I am MiskaDaeve,a senior high school student who loves Minecraft.</br>
 I am just a new one about programming :)</br>
-And I am currently working around some reverse work about ysm and Minecraft plugin server softs
+And I am currently working around some reverse work about ysm and Minecraft plugin server softs.
+And I am a opensource lover
 
 ### Tools I have frequency used
 ![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-white?style=flat-square&logo=visualstudio&color=4abf8a)
