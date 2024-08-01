@@ -18,6 +18,9 @@ And I am a opensource lover
 ### Services I have used
 ![Services](https://skillicons.dev/icons?i=github,gitlab,cloudflare,gradle,maven)
 
+### Contact
+Discord: miskadaeve_70422
+
 ### My status
 <h5>Visitor Count：</h5>
 <img src="https://moe-counter.glitch.me/get/@MiskaDaeve?theme=moebooru" alt="If you are unable to see this, please refresh the page.">
